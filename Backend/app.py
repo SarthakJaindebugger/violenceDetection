@@ -429,7 +429,7 @@ except Exception as e:
     logger.error(f"Error loading pretrained encoder classifier: {e}")
     raise e
 
-your_model_path = "/mnt/c/Users/shubh/OneDrive/Desktop/ML Projects/sarthak_new_flask/lstm_xvector.h5"
+your_model_path = "/mnt/c/Users/shubh/OneDrive/Desktop/ML Projects/sarthak_new_flask/model.h5"
 
 try:
     model = tf.keras.models.load_model(your_model_path)
