@@ -1,4 +1,4 @@
-# Depression Detection Application
+# Violence Detection Application
 
 ## Authors
 Sarthak Jain
