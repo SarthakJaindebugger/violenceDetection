@@ -18,7 +18,7 @@ Make sure you have Python and Node.js installed on your system.
 
 2. Navigate to the project directory:
     ```bash
-    cd depression_intensity
+    cd violenceDetection
     ```
 
 3. Create and activate a virtual environment:
